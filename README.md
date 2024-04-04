@@ -5,7 +5,7 @@
 
 * 🏫: Estou no 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
 * 🔭: Cursando o Bootcamp de Data Analytics da WomakersCode.
-* 📖: Atualmente lendo: O andar do bêbado: Como o acaso determina nossas vidas.
+* 📖: Atualmente lendo: *O andar do bêbado: Como o acaso determina nossas vidas.*
 
 <hr>
 <Br>
