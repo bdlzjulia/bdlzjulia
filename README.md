@@ -15,4 +15,4 @@
 <a href="https://www.linkedin.com/in/julia-brandalize/" target="blank"><img align="center" src="https://img.shields.io/badge/Julia Brandalize-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:juliabrandalize9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/juliabrandalize9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV3dG03czRqemN2a3RxZ3pjYmc0bjQ1MmJ1eXM2Z3Jtd2w0cnl3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="150px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV3dG03czRqemN2a3RxZ3pjYmc0bjQ1MmJ1eXM2Z3Jtd2w0cnl3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif">
