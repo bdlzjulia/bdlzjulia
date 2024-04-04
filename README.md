@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/julia-brandalize/">Julia Brandalize<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/julia-brandalize/">Julia Brandalize<a></h1>
 <Br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
