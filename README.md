@@ -10,15 +10,14 @@
 <hr>
 <Br>
 <h1 align="center">Skills 👩🏻‍💻</h1>
-<h1 align="center">Skills 👩🏻‍💻</h1>
 <h1 align="center">
-  <img src="./assets2/python.png" height="55" width="55"/>
+  <img src="./assets2/python.png" width="55"/>
   <img src="./assets2/pandas.png" height="55" width="55"/>
   <img src="./assets2/numpy.png" height="55" width="55"/>
-  <img src="./assets2/sql.png" height="55" width="55"/>
+  <img src="./assets2/sql.png" width="55"/>
   <img src="./assets2/git.png" height="55" width="55"/>
   <img src="./assets2/excel.png" height="55" width="55"/>
-  <img src="./assets2/sql.png" height="55" width="55"/>
+  <img src="./assets2/powerbi.png" height="55" width="55"/>
   <img src="./assets2/r.png" height="55" width="55"/>
   <img src="./assets2/analise-de-dados.png" height="55" width="55"/>
   <img src="./assets2/aws.png" height="55" width="55"/>
