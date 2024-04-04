@@ -18,7 +18,8 @@
   <img src="./assets/python2.png" height="55" width="55"/>
   <img src="./assets/cloud-computing2.png" height="55" width="55"/>
 </h1>
-  
+
+<Br>
 <hr>
 <Br>
 <h1 align="center">Entre em contato 📬</h1>
@@ -26,9 +27,6 @@
 <a href="https://www.linkedin.com/in/julia-brandalize/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:juliabrandalize9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/juliabrandalize9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
-<Br>
-<Br>
-<Br>
 <Br>
 <Br>
 <Br>
