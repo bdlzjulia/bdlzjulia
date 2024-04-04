@@ -17,7 +17,7 @@
   <img src="./assets2/powerbi.png" width="55"/>
   <img src="./assets2/pandas.png" width="60"/>
   <img src="./assets2/excel.png" width="55"/>
-  <img src="./assets2/numpy.png" width="63"/>
+  <img src="./assets2/numpy.png" width="68"/>
   <img src="./assets2/r.png" width="55"/>
   <img src="./assets2/git.png" width="55"/>
   <img src="./assets2/analise-de-dados.png" width="55"/>
