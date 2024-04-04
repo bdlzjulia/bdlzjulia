@@ -1,16 +1,16 @@
-<h1 align="center">I'm <a href="https://github.com/bdlzjulia">Julia Brandalize<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Olá, eu sou a <a href="https://github.com/bdlzjulia">Julia Brandalize<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
-- 🏫: 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
+- 🏫: Estou no 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
 - 🔭: Atualmente cursando o bootcamp de Data Analytics da WomakersCode.
 - 🌱: Estou estudando análise e ciências de dados
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Entre em contato 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/julia-brandalize/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:juliabrandalize9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/julia-brandalize/" target="blank"><img align="center" src="https://img.shields.io/badge/Julia Brandalize-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:juliabrandalize9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/juliabrandalize9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
   
 <Br>
