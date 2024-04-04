@@ -4,13 +4,24 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mim***
 
 * 🏫: Estou no 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
-* 🔭: Atualmente cursando o bootcamp de Data Analytics da WomakersCode.
-* 🌱: Estou estudando análise e ciências de dados
+* 🔭: Cursando o bootcamp de Data Analytics da WomakersCode.
+* 📖: Atualmente lendo: O andar do bêbado: Como o acaso determina nossas vidas
+
+<hr>
+<Br>
+<h1 align="center">Skills 👩🏻‍💻</h1>
+<h1 align="center">
+  <img src="./assets/data2.png" height="55" width="55"/>
+  <img src="./assets/github.png" height="55" width="55"/>
+  <img src="./assets/database.png" height="55" width="55"/>
+  <img src="./assets/sheets.png" height="55" width="55"/>
+  <img src="./assets/python2.png" height="55" width="55"/>
+  <img src="./assets/cloud-computing2.png" height="55" width="55"/>
+</h1>
   
 <hr>
 <Br>
 <h1 align="center">Entre em contato 📬</h1>
-<Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/julia-brandalize/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:juliabrandalize9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/juliabrandalize9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
