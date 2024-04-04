@@ -4,7 +4,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mim***
 
 * 🏫: Estou no 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
-* 🔭: Cursando o bootcamp de Data Analytics da WomakersCode.
+* 🔭: Cursando o Bootcamp de Data Analytics da WomakersCode.
 * 📖: Atualmente lendo: O andar do bêbado: Como o acaso determina nossas vidas.
 
 <hr>
