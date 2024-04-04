@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou a <a href="https://github.com/bdlzjulia">Julia Brandalize<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 - 🏫: Estou no 4° semestre do curso de graduação Ciências de Dados e Inteligência Artificial.
 - 🔭: Atualmente cursando o bootcamp de Data Analytics da WomakersCode.
 - 🌱: Estou estudando análise e ciências de dados
