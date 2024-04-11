@@ -20,8 +20,6 @@
   <img src="./assets2/numpy.png" width="72"/>
   <img src="./assets2/r.png" width="55"/>
   <img src="./assets2/git.png" width="55"/>
-  <img src="./assets2/analise-de-dados.png" width="55"/>
-  <img src="./assets2/ingles.png" width="55"/>
 </h1>
 
 <Br>
