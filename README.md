@@ -14,7 +14,6 @@
   <img src="./assets2/python.png" width="55"/>
   <img src="./assets2/aws.png" width="58"/>
   <img src="./assets2/sql.png" width="63"/>
-  <img src="./assets2/powerbi.png" width="55"/>
   <img src="./assets2/pandas.png" width="60"/>
   <img src="./assets2/excel.png" width="55"/>
   <img src="./assets2/numpy.png" width="72"/>
